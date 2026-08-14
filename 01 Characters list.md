@@ -43,9 +43,9 @@ Some characters will take part in several campaigns, so they can appear repeated
 
 ---
 
-# Kevin Mayatnikus
+# Greig Ventre
 
-***Name and Surname Meaning:*** The name and surname come from Kevin Mitnikus, the most famous hacker in human history. Mitnick's main gimmick was hacking the most complex servers of the Pentagon and megacorporations not only using code, but also through social engineering. He is the creator of D.Y.N.O. 2.
+***Name and Surname Meaning:***: The name and surname comes from J. Craig Venter, whose team created the world's first synthetic bacterium with entirely artificial, computer-generated DNA. Dr. Craig Ventre's team recommended the destruction of the experiment, Pantopet, at Pantocorp's Deep Space Disposal Facility (DSDF). He is the creator of D.Y.N.O. 2.
 
 
 ---
