@@ -77,6 +77,12 @@ Taisia shares with her what she knows: stories from the underbelly of PantoCorp,
 
 ---
 
+# Émil Claperon
+
+***Name and Surname Meaning:***: The name and surname come from Benoît Paul Émile Clapeyron. He was the first to scientifically describe and prove the process of sublimation from a thermodynamic perspective. He gave Witya a PantoFreezer
+
+---
+
 # Tuzik
 
 ***Name and Surname Meaning:*** Tuzik tore the Warmer. One of the Gravibike riders.
