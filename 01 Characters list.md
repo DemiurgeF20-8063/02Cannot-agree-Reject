@@ -83,18 +83,6 @@ Taisia shares with her what she knows: stories from the underbelly of PantoCorp,
 
 ---
 
-# Tuzik
-
-***Name and Surname Meaning:*** Tuzik tore the Warmer. One of the Gravibike riders.
-
----
-
-# Warmer
-
-***Name and Surname Meaning:*** Tuzik tore the Warmer. One of the Gravibike riders.
-
----
-
 # Waspin Tobroth
 
 ***Name and Surname Meaning:*** A minor character, he'll simply be Witya's rival in a space fighter race. So, we tossed the Wasp inTo broth and are happy.
