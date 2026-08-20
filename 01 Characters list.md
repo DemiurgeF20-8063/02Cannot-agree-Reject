@@ -95,6 +95,18 @@ Taisia shares with her what she knows: stories from the underbelly of PantoCorp,
 
 ---
 
+# Tuzik
+
+***Name and Surname Meaning:*** Tuzik tore the Warmer. One of the Gravibike riders.
+
+---
+
+# Warmer
+
+***Name and Surname Meaning:*** Tuzik tore the Warmer. One of the Gravibike riders.
+
+---
+
 # Nikita
 
 ***Name and Surname Meaning:***: One of the test subjects for PantoPet testing and filming commercials with him.
