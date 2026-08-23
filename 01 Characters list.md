@@ -45,7 +45,7 @@ Some characters will take part in several campaigns, so they can appear repeated
 
 # Greig Ventre
 
-***Name and Surname Meaning:***: The name and surname comes from J. Craig Venter, whose team created the world's first synthetic bacterium with entirely artificial, computer-generated DNA. Dr. Craig Ventre's team recommended the destruction of the experiment, Pantopet, at Pantocorp's Deep Space Disposal Facility (DSDF). He is the creator of D.Y.N.O. 2.
+***Name and Surname Meaning:***: The name and surname comes from J. Craig Venter, whose team created the world's first synthetic bacterium with entirely artificial, computer-generated DNA. This scientist was Peter Koen's right-hand man and developed the Pantopet, but he was prevented from completing the work because the Pantopet was stolen. Diana and Witya eventually approached him, and he assembled D.Y.N.O. 2 for them, both a weapon and a device to pacify the Pantopets. However, Greig himself had his own plans and motives.
 
 
 ---
