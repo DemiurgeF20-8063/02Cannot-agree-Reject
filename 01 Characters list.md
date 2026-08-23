@@ -53,7 +53,13 @@ Some characters will take part in several campaigns, so they can appear repeated
 # Taisi Athina
 
 ***Name and Surname Meaning:*** Her name and surname come from Tais Athins (Taisia Athinos), the Muse and keeper of stories. She understands how fleeting power is and how eternal feelings are.
-Taisia shares with her what she knows: stories from the underbelly of PantoCorp, tales of organics willing to sacrifice themselves for their loved ones, and how emotions break through any of Peter Koen's harsh, cold scripts and orders. This makes Katya's teaching sincere and "dirty," without pompous metaphysics. Katya pieces together the soul, piece by piece, from the real-life experiences of the underclass of Ellesmere.
+Taisi shares with Katya what she knows: stories from the underbelly of PantoCorp, tales of how organics are willing to sacrifice themselves for their loved ones, and how emotions break through any of Peter Cohen's harsh, cold scripts and orders. This makes Katya's training sincere and "dirty," without pompous metaphysics. Taisi becomes Diana Clum's partner in her adventures.
+
+---
+
+# Kevin Mayatnikus
+
+***Name and Surname Meaning:*** The name and surname come from Kevin Mitnikus, the most famous hacker in human history. Mitnick's main gimmick was hacking the most complex servers of the Pentagon and megacorporations not only using code, but also through social engineering. He is the creator of the psychowave emitter, that brought Pantocorp to power.
 
 ---
 
