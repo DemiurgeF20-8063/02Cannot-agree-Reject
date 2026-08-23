@@ -57,10 +57,15 @@ Taisia shares with her what she knows: stories from the underbelly of PantoCorp,
 
 ---
 
-# Sheldon Wenberg
+# Remhen Rev
 
-***Name Meaning:*** The name comes from Sheldon Glashow, who proposed the first working gauge model unifying the two forces—the weak and electromagnetic—creating the theory of the electroweak force.
-***Surname meaning:***: The surname comes from Steven Weinberg. He, along with Abdus Salam, applied the spontaneous symmetry breaking mechanism (the aforementioned Higgs mechanism) to the model. This gave the hypothetical heavy gauge bosons colossal masses and completed Sheldon's theory. Gave Witya an armor magnetizer.
+***Name and Surname Meaning:*** The word is formed by the reverse pronunciation and division of the German word "Wernehmer," which literally translates as "interrogator." He interrogates Vitya and Boris before offering them a contract. He is also the one who subsequently dumps Vitya in the middle of the desert. Apparently, his powers are not limited to interrogations, and he exercises a certain degree of control over the soldiers who signed the contract under an agreement that cannot be rejected.
+
+---
+
+# Tsaimen Tarius
+
+***Name and Surname Meaning:*** The words are derived from the Latin Caementarius, which translates into English as "Mason." This odd fellow, a stone collector, gives the heroes the Hypnotic Stone in exchange for the Resonance Charoite, which Vita and Diana have to retrieve from the PantoCorp museum.
 
 ---
 
