@@ -393,7 +393,7 @@ Witya gives Katya a boost, and she, along with Taisi, goes deep into the vent.
 
 The 10th mission begins with a puzzle controlled by both robots simultaneously. At the same time, the level design must require players to take coordinated actions to solve it.
 
-As a result, the field grates are deactivated, and Witya is set free. Witya finds a room containing his arsenal, which also includes the Goatmorpher, but he does not find Diana's gear. Also, in the middle of the ship, there is a Merc-4-more terminal where players can buy ammo, even for legal guns, as well as some mercenary weaponry. He breaks onto the captain's bridge and finds out that Diana is located at the main Merc-4-more base on the planet Mastorfen. At this moment, the player controlling Kat must retrace their steps and meet up with Witya in the hangar, occasionally switching to Taisi.
+As a result, the field grates are deactivated, and Witya is set free. Witya finds a room containing his arsenal. Also, in the middle of the ship, there is a Merc-4-more terminal where players can buy ammo, even for legal guns, as well as some mercenary weaponry. He breaks onto the captain's bridge and finds out that Diana is located at the main Merc-4-more base on the planet Mastorfen. At this moment, the player controlling Katya must retrace their steps and meet up with Witya in the hangar, occasionally switching to Taisi.
 
 Witya takes one of the Merc-4-more fighters and heads to this planet. The 11th mission begins. Witya lands very close to the fortress because he is piloting a stolen Merc-4-more fighter, and the security system lets him through as one of their own. Near the landing pad, there is a triangular platform. Standing next to it is Servatio Masae.
 
