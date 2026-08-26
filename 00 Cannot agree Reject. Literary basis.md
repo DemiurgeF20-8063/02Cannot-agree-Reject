@@ -780,3 +780,5 @@ Witya hands the device over to Kevin.
 Credits.
 
 ---
+
+CC-BY-SA 4.0 + Custom IP Restrictions
