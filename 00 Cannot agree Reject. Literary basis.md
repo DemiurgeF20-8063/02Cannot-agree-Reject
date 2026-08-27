@@ -379,7 +379,7 @@ In the next frame, Witya wakes up in a prison cell.
 **Katya:** Captured by Merc-4-more.  
 **Witya:** What? No... They were on our side.  
 **Katya:** They were. Looks like someone offered them more bolts than Diana did.  
-**Witya:** Good morning to you too. And how are we supposed to get out of here now?  
+**Witya:** Good morning. And how are we supposed to get out of here now?  
 **Katya:** It's futile. You can't leave this cell from the inside.
 
 At this moment, the ventilation grate falls away, and Taisi appears inside it.
