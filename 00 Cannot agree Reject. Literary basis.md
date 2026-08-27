@@ -303,7 +303,7 @@ Witya goes down the canyon and comes out onto a small clearing. The Mysterious T
 
 At this moment, the thief slips, falls off the ship, and her disguise glitches out. Under the disguise is a Fustix. Diana Clum.
 
-**Witya:** Woah, he turns out to be a she, and... A Fustix? You're a Fustix? I'm... I've never seen another member of my species before!  
+**Witya:** Woah, he is she, and... A Fustix? You're a Fustix? I'm... I've never seen another member of my species before!  
 **Diana:** It would be weird if you had. That doesn't change the point...  
 **Witya:** I can't. It's already been handed back to Pantocorp.  
 **Diana:** Nether... Well, look what you've done...
