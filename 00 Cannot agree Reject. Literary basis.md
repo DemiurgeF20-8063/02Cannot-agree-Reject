@@ -249,7 +249,7 @@ The mission will be called: "Meet Them First"
 
 In addition to story missions, players can take "contracts" at Pantocorp terminals to earn a special currency: Pantocards. This currency can be used to buy weapons, ammo, restore health, and purchase armor at Pantocorp terminals. I haven't figured out what these contracts are yet.
 
-The sixth mission doesn't have to be taken right away; players can complete a few contracts first. In the sixth mission, Boris and Witya are sent to the acid planet Batantun with aggressive fauna to clear a site for future acid extraction from these lakes. There will also be an abandoned building there, locked from the inside. To investigate it, they need Kat. For this mission, both heroes will be issued Railstifts.
+The sixth mission doesn't have to be taken right away; players can complete a few contracts first. In the sixth mission, Boris and Witya are sent to the acid planet Batantun with aggressive fauna to clear a site for future acid extraction from these lakes. There will also be an abandoned building there, locked from the inside. To investigate it, they need Katya. For this mission, both heroes will be issued Railstifts.
 
 Also on the map, there is a small shack inhabited by Sellof Sterces. Among his weapons, you can also buy Nitrostifts. Upon approach, Sellof Sterces will trigger this dialogue:
 
