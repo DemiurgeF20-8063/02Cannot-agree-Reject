@@ -743,11 +743,11 @@ The Pantopet is defeated.
 
 **Witya:** Didn't you say this thing would make the Pantopet good?
 
-Greig Ventre aims the Goatmorpher at Boris.
+Greig Ventre aims the Insectonator at Boris.
 
-**Greig:** What made you think, whoever you are, that you'd manage to fool everyone? Where is Pyotr? I know his heart is still beating.
+**Greig:** What made you think, whoever you are, that you'd manage to fool everyone? Where is Peter? I know his heart is still beating.
 
-Boris opens a hidden door, revealing a cell containing Pyotr Koen. Boris releases Pyotr. A smile forms on Greig's face. Witya jumps and tackles Greig to the ground, causing the shot to hit Peter instead, turning him into a goat.
+Boris opens a hidden door, revealing a cell containing Peter Koen. Boris releases Pyotr. A smile forms on Greig's face. Witya jumps and tackles Greig to the ground, causing the shot to hit Peter instead, turning him into a woodlouse.
 
 Boris freezes in surprise for a moment...
 
