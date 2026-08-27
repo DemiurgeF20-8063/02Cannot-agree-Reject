@@ -432,7 +432,7 @@ Players need to aim for the mech's legs, arms, or head to avoid hitting the cell
 
 At this moment, one of the robot's arms breaks off, but Kat bats it away in the other direction.
 
-The heroes need to return to the landing pad so Kat can downscale back into her peaceful form.
+The heroes need to return to the landing pad so Katya can downscale back into her peaceful form.
 
 **Servatio:** Eureka! You have no idea how small your chances of surviving this procedure were!  
 **Kat and Witya simultaneously:** What?  
