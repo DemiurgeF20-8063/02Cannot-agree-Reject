@@ -414,7 +414,7 @@ The second player in this mission will be the one controlling Katya.
 
 The alarm triggers quickly, causing many doors to become locked, and Witya has to buy a Lockpasser at the mercenary terminal.
 
-As a result, Witya makes his way out to the backyard and encounters the Merc-4-more commander in a giant mech. A cell containing Diana is located right inside its chest. Witya has to use anti-aircraft turrets to damage this mech, while Kat is perfectly capable of damaging it even without any extra gear.
+As a result, Witya makes his way out to the backyard and encounters the Merc-4-more commander in a giant mech. A cell containing Diana is located right inside its chest. Witya has to use anti-aircraft turrets to damage this mech, while Katya is perfectly capable of damaging it even without any extra gear.
 
 Players need to aim for the mech's legs, arms, or head to avoid hitting the cell with Diana.
 
@@ -435,7 +435,7 @@ At this moment, one of the robot's arms breaks off, but Katya bats it away in th
 The heroes need to return to the landing pad so Katya can downscale back into her peaceful form.
 
 **Servatio:** Eureka! You have no idea how small your chances of surviving this procedure were!  
-**Kat and Witya simultaneously:** What?  
+**Katya and Witya simultaneously:** What?  
 **Servatio:** Just kidding! I managed to reprogram the panel so that it will only trigger on your specific circuits. Fortunately... No one will ever mistake yours for anything else, it's like you're from another dimension...  
 **Katya:** You're closer to the truth than you think...
 
@@ -570,7 +570,7 @@ She opens the compartment on her device again, inserts the stone from the museum
 
 After this, players need to return to Tonia and hand over the stone. As soon as they do, the following dialogue takes place:
 
-**Witya:** Knock knock. The stone has arrived.  
+**Witya:** Knock knock. One stone is walking out.  
 **Tsaimen:** Stones don't walk!  
 **Witya:** Why would you say that? Here's one running away right in front of me.  
 **Diana:** You two truly found each other... We got you the Charoite.
@@ -589,7 +589,7 @@ They go inside, and Tsaimen blows away a large clump of dust, revealing a small 
 **Diana:** You've got to be kidding me.  
 **Witya:** I'd make a joke about another place where you can get stones, except it wouldn't be funny for everyone...
 
-Tsaimen hands the stone to Witya, and Witya hands it over to Kat.
+Tsaimen hands the stone to Witya, and Witya hands it over to Katya.
 
 After this, the heroes need to return to their ships.
 
