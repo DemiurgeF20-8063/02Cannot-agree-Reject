@@ -23,7 +23,7 @@ It is unknown whether their relationship had improved, or if Witya simply wanted
 **Unlas:** Hello. I certainly didn't expect you to... Will you be visiting?  
 **Witya:** Yeah, no... I wanted to ask you something... About the story you tell all the inmates.  
 **Unlas:** And what is it you want to know about the most truthful story in all of Tonata?  
-**Witya:** Truthful? You made me look like some flat fanboy whose only goal in life is to get into your Rangers. Who even is this Sience guy? And where did I get such a huge hangar and an adoptive father? Oh, and... By the way, do you want to know why all the prisoners are so happy to listen to your story?  
+**Witya:** Truthful? You made me look like some flat fanboy whose only goal in life is to get into your Rangers. Who even is this Tikhon guy? And where did I get such a huge hangar and an adoptive father? Oh, and... By the way, do you want to know why all the prisoners are so happy to listen to your story?  
 **Unlas:** Watch out!
 
 With a swift motion of his hand, Unlas shoves Witya aside. As a result, a projectile flying towards Witya's back hits Unlas instead, but causes him no significant damage.
