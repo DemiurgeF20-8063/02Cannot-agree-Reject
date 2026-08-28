@@ -556,7 +556,7 @@ She opens the compartment on her device again, inserts the stone from the museum
 **Witya:** What kind of device is this?  
 **Diana:** Aren't we curious. A Melodyonator. Not a toy for kids.  
 **Witya:** Did you just call me a kid?  
-**Diana:** Yes and no. Seriously, in clumsy hands, everything will cease to exist. Everything, period.  
+**Diana:** Yes and no. Seriously, in clumsy hands, everything will cease to exist.
 **Witya:** Alright... But why was this stone so dangerous?  
 **Diana:** It isn't anymore.  
 **Witya:** I've already held one like this in my hands before.  
@@ -675,8 +675,8 @@ Actually, near the last message, they are met by the Grinter, which turns into a
 After this, the heroes need to return to the Salka Complex. Before returning, the game will warn that it is entering its final stage, and after this, completing any activities will be impossible. In the complex, they need to meet with Greig Ventre. The following dialogue will take place:
 
 **Witya:** The stone has arrived!  
-**Diana:** Stop it. It's not funny the third time around!  
-**Witya:** That was only the second time!  
+**Diana:** Stop it. It's not funny the third time!  
+**Witya:** That was only the second!  
 **Greig:** I see you've gathered everything.  
 **Diana:** Yes.
 
