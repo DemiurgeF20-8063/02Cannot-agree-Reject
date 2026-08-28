@@ -37,7 +37,7 @@ Meanwhile, Boris Hartocat is already sitting inside the cockpit of Witya's fight
 
 The fighter's cockpit closes, and it soars into the sky.
 
-**Witya:** But why shoot me in the back, you rat! Kat, start the Messking.
+**Witya:** But why shoot me in the back, you rat! Kate, start the Messking.
 
 And runs away.
 
@@ -224,18 +224,20 @@ The anger on Witya's face changes to surprise.
 
 This marks the end of the first, tutorial mission, which will be called: "Catching Yesterday's Friend"
 
+---
+
 Alright, moving forward it won't be as detailed, just quickly throwing together the ideas I have right now:
 
-The second mission will be completing an obstacle course with enemies—a graduation exam from accelerated military training. It will be called "Pass the Exam". This exam will take place on the Pantocorp Flagship.
+Next mission will be completing an obstacle course with enemies—a graduation exam from accelerated military training. Second mission will be called "Pass the Exam". This exam will take place on the Pantocorp Flagship.
 
 The third mission will be clearing outer space above the planet Lebourg. Witya and Boris will go up against Merc-4-more fighters, supported by a heavy Pantocorp corvette.  
-The mission will be called "Clear Lebourg's Orbit."
+The third mission will be called "Clear Lebourg's Orbit."
 
-The fourth mission will simply be protecting a tour in the armed forces museum on this planet from the remnants of the Merc-4-more forces. This will be a timed mission, with no real need to run around anywhere. It will be called: "Cover the Tour".
+The next mission will simply be protecting a tour in the armed forces museum on this planet from the remnants of the Merc-4-more forces. This will be a timed mission, with no real need to run around anywhere. The fourth mission will be called: "Cover the Tour".
 
 Once the timer expires, the mission will be completed.
 
-However, it will turn out to be just a distraction. In the fifth mission, a Mysterious Thief will steal Pantopet.
+However, it will turn out to be just a distraction. In the next mission, a Mysterious Thief will steal Pantopet.
 
 Witya and Boris are quickly rerouted to the main Pantocorp laboratory on Alajoya. Fighting their way through Merc-4-more mercenaries, they push towards the main room, but only manage to see the Thief escaping with Pantopet. Instead of him, a Merc-4-more boss tank stands in their way.
 
@@ -245,7 +247,7 @@ There will be another locked, classified section in this museum, but it will be 
 
 Witya transmits a message that the trail of the Mysterious Thief has been lost.
 
-The mission will be called: "Meet Them First"
+The fifth mission will be called: "Meet Them First"
 
 In addition to story missions, players can take "contracts" at Pantocorp terminals to earn a special currency: Pantocards. This currency can be used to buy weapons, ammo, restore health, and purchase armor at Pantocorp terminals. I haven't figured out what these contracts are yet.
 
@@ -276,13 +278,26 @@ In orbit of this planet, Witya and Boris will also be met by Waspin Tobroth.
 
 Boris will lose in this mission even under player control, so only Witya will be able to obtain the Swing-armlet.
 
-The mission will be called: "Do Some Weeding"
+The sixth mission will be called: "Do Some Weeding"
 
-In the seventh mission, they manage to catch the signal of the Mysterious Thief; an attack has occurred on a rocket factory on the planet Celeseck. The Thief wanted to strap Pantopet to a rocket and blow it up in space. This is a cold planet, where Witya will notice that Pantocorp doesn't really have anyone to fight, yet they are actively arming themselves. As a result of the Thief's actions, the Swillant Complex will be flooded, and to advance further, Emil Claperon will give Witya a Pantofreezer.
+In the next mission, Remhen Rev says that they managed to catch the Mysterious Thief's signal, and redirects Witya and Boris to the ocean planet Ozena. As soon as Witya and Boris fly toward the planet, they spot a ship with the Mysterious Thief sitting in the cockpit. However, this ship immediately deploys an MHD sail, and a special turret shoots a stream of light at it, blasting the ship into deep space.
+
+**Witya:** Looks like I'm late... Maybe we can find out where she headed...
+
+Witya and Boris land on this planet and, among the sparse islands, they find the Mysterious Thief's home. By what marker they find it—I don't know yet. The house features a fairly simple interior: a table, a chair, a bed, and a shower with a toilet. There will also be a locked room inside, which can only be opened using a Lockpasser. Inside this room, players will find a Chickenator. Any items that would hint at the Thief's personality traits are completely absent. Only a device functioning as a voice recorder is present.
+
+The following log will be recorded on the voice recorder:
+"Okay, I convinced Quand to blow up the Harmony Quite in Tonata. It wasn't as hard as I thought it would be. Aidex will love this news... If the Encapsulation is ever lifted... But... Why did Crutch send me here? There definitely shouldn't be any Resonant Charoite in Ellesmere... And what does Pantopet have to do with any of this? Whatever, doesn't matter... I need to destroy the specimen by tying it to a rocket on Celeseck. We'll save this galaxy since we have to..."
+
+**Witya:** Excellent. The villain explained his plan as always.
+
+The seventh mission will be called: "Intrude into Personal Life."
+
+Witya arrives on Celeseck. This will be a cold planet where Witya will notice that Pantocorp doesn't really have anyone to fight, yet they are actively arming themselves. There, as a result of the Thief's actions, the Swillant Complex will be flooded, and to advance further, Emil Claperon will give Witya a Pantofreezer.
 
 There, they finally confront the Thief and retrieve Pantopet from him. Right after this, Boris immediately runs away. Witya fails to keep an eye on him.
 
-The mission will be called: "Retrieve Pantopet"
+The Eighth mission will be called: "Retrieve Pantopet"
 
 The next mission doesn't have to be taken right away; players can complete a few contracts first.
 
@@ -294,7 +309,7 @@ Destroying the flagship rewards a Nirgenium Shard.
 
 Witya finds himself in the middle of the desert. Wandering through it, he meets the Meditating Krunch, who asks Witya to collect 10 cacti. Then 24. Then 60.
 
-For 10 cacti, he opens the path to the nearest city; for 24, he gives an Unbinil Bolt; and for 60, a weapon.
+For 10 cacti, ningh mission, he opens the path to the nearest city; for 24, he gives an Unbinil Bolt; and for 60, a weapon.
 
 Witya goes down the canyon and comes out onto a small clearing. The Mysterious Thief's ship flies up to him and lands. The Thief jumps onto the roof and threatens Witya with a weapon. In response, Witya points his gun at him.
 
@@ -325,7 +340,9 @@ She shows him a screen displaying Pantopet's trials and its aggression.
 **Witya:** Awesome. And... I have a plan. Where did you get your Bioguise?  
 **Diana:** They hand those out at the Merc-4-more arena.
 
-In the next scene, they fly up to the Merc-4-more station and engage in arena battles. Together. The arena battles will consist of blocks containing several trials. Completing the first block rewards a Bioguise. The second rewards an Unbinil Bolt, and the third rewards a Weapon. Each battle will also have a separate mini-reward, including a few Pantocards.
+The Tenth mission will be called "Change your Mind".
+
+In the next scene, they fly up to the Merc-4-more station and engage in arena battles. Together. The arena battles will consist of blocks containing several trials. Completing the first block rewards a Bioguise and called as 11th mission - Win in the Arena. The second rewards an Unbinil Bolt, and the third rewards a Weapon. Each battle will also have a separate mini-reward, including a few Pantocards.
 
 After this, the player will have the opportunity to complete several contracts. If they attempt to choose one, Diana will react.
 
@@ -334,7 +351,7 @@ After this, the player will have the opportunity to complete several contracts. 
 **Diana:** Great. Trying to play both sides, I see?  
 **Witya:** Hey, it's not my fault we need armaments. I'm not planning to just settle for Sellof's gear. By the way... Nobody saw you without your disguise, right?
 
-The opportunity to go on the 9th mission also opens up. Upon starting the 9th mission, contracts cease to be available. The mission will consist of breaking into the Station Custody Recycling And Processing (S.C.R.A.P.) station, located in the Avamis Nebula.
+The opportunity to go on the 12th mission also opens up. Upon starting the 9th mission, contracts cease to be available. The mission will consist of breaking into the Station Custody Recycling And Processing (S.C.R.A.P.) station, located in the Avamis Nebula.
 
 On the station, both Witya and Diana will be undercover using the Bioguise, and for the first time, their enemies will be Pantocorp soldiers and tech. In addition to Kat, they will also spring Taisi Athina from there. The following dialogue will take place:
 
@@ -349,7 +366,7 @@ He briefly removes his disguise.
 Another robot runs up to them. On her finger is an accessory unusual for a robot—a gold ring with a symbol of a triangle inside a square.
 
 **Robot:** Wait! Take me with you.  
-**Witya:** Sorry, I only have one connection port.
+**Witya:** Sorry, I only have one clemma.
 
 Witya looks toward Diana.
 
@@ -361,7 +378,7 @@ Witya looks toward Diana.
 
 The second part of the mission consists of escaping from this complex. Actually, while they are fighting their way back out, the following in-mission dialogue takes place:
 
-**Katya:** So why are you on her side?  
+**Katya:** So why are you on his side?  
 **Witya:** Her. Pantopet isn't finished and is showing severe aggression. She stole him to save the galaxy. But... then I showed up...  
 **Diana:** And ruined all my plans. As a result, Pantopet is now Nether knows where.  
 **Witya:** I hope they sent him back for adjustments...  
@@ -395,7 +412,9 @@ The 10th mission begins with a puzzle controlled by both robots simultaneously. 
 
 As a result, the field grates are deactivated, and Witya is set free. Witya finds a room containing his arsenal. Also, in the middle of the ship, there is a Merc-4-more terminal where players can buy ammo, even for legal guns, as well as some mercenary weaponry. He breaks onto the captain's bridge and finds out that Diana is located at the main Merc-4-more base on the planet Mastorfen. At this moment, the player controlling Katya must retrace their steps and meet up with Witya in the hangar, occasionally switching to Taisi.
 
-Witya takes one of the Merc-4-more fighters and heads to this planet. The 11th mission begins. Witya lands very close to the fortress because he is piloting a stolen Merc-4-more fighter, and the security system lets him through as one of their own. Near the landing pad, there is a triangular platform. Standing next to it is Servatio Masae.
+13th mission will be called "Escape prison ship"
+
+Witya takes one of the Merc-4-more fighters and heads to this planet. The 14th mission, Rescue your companion begins. Witya lands very close to the fortress because he is piloting a stolen Merc-4-more fighter, and the security system lets him through as one of their own. Near the landing pad, there is a triangular platform. Standing next to it is Servatio Masae.
 
 **Servatio:** Right, what if we jam a nail under this gear?  
 **Witya:** Hey, do you need help fixing this thing?  
@@ -439,7 +458,7 @@ The heroes need to return to the landing pad so Katya can downscale back into he
 **Servatio:** Just kidding! I managed to reprogram the panel so that it will only trigger on your specific circuits. Fortunately... No one will ever mistake yours for anything else, it's like you're from another dimension...  
 **Katya:** You're closer to the truth than you think...
 
-The 12th mission will initially feature a space battle to break through to the surface of Pantoko, after which the heroes, not under disguise, infiltrate that very same classified section. They don't need a disguise because Merc-4-more has already transmitted all information about them to Pantocorp.
+The 15th mission, called Break into R&D, will initially feature a space battle to break through to the surface of Pantoko, after which the heroes, not under disguise, infiltrate that very same classified section. They don't need a disguise because Merc-4-more has already transmitted all information about them to Pantocorp.
 
 As soon as they enter the main laboratory, the following dialogue takes place:
 
@@ -474,7 +493,7 @@ Once the card is issued, Witya regains the ability to take contracts, as well as
 
 These three missions can be completed in any order.
 
-I'll start, perhaps, with the Hypnotic stone. The 13th mission.
+I'll start, perhaps, with the Hypnotic stone. The 16th mission called Find Tsaimen Tarius.
 
 They arrive on Tonia and find a city engulfed in an uprising, which is being actively suppressed by Pantocorp. As soon as they arrive, the following in-mission dialogue takes place:
 
@@ -513,7 +532,7 @@ Soon they find Tsaimen's house, easily spotted by the large number of stones nea
 **Diana:** We don't have time to exchange these petty burns. Open up, we need your help.  
 **Tsaimen:** I'm not giving you the stone!  
 **Witya:** Too bad, I already took it!  
-**Tsaimen:** Put it back in the yard!  
+**Tsaimen:** Put it back in the garden!  
 **Witya:** Only into someone else's!
 
 Witya runs away from Tsaimen's house, and Tsaimen rushes out after him. Diana immediately blocks the entrance with her body, crossing her arms over her chest. At this moment, Witya raises some stone in his outstretched hand, and Tsaimen jumps up, trying to reach it.
@@ -532,7 +551,7 @@ Witya runs away from Tsaimen's house, and Tsaimen rushes out after him. Diana im
 **Witya:** Who?  
 **Diana:** Oh, never mind... Let's go. Let's get him this Charoite.
 
-The 14th mission consists of fighting their way into the Pantocorp Geological Center on the planet Namsref. Yes. With combat. There will also be a puzzle for Katya and Taisi. As soon as they reach the main hall, where a small Charoite shard is located, and break the glass, the following dialogue will take place:
+The 17th mission, called Raid geological Center, consists of fighting their way into the Pantocorp Geological Center on the planet Namsref. Yes. With combat. There will also be a puzzle for Katya and Taisi. As soon as they reach the main hall, where a small Charoite shard is located, and break the glass, the following dialogue will take place:
 
 **Diana (taking the Charoite in her hands and examining it under a lamp):** Yes... This is an excellent specimen.  
 **Witya:** You actually know that stuff?  
@@ -593,12 +612,12 @@ Tsaimen hands the stone to Witya, and Witya hands it over to Katya.
 
 After this, the heroes need to return to their ships.
 
-The 15th mission begins on the next planet, Hypsis. A space battle breaks out against Merc-4-more.
+The 18th mission, called Owerhelm Merc-4-more, begins on the next planet, Hypsis. A space battle breaks out against Merc-4-more.
 
 **Witya:** I thought we smashed them...  
 **Diana:** Yeah. If this organization were that weak, wouldn't Pantocorp have ground them to dust by now?
 
-The planet clearly does not belong to Pantocorp; there is some kind of outpost located right in the middle of the jungle. Witya and Diana land nearby and encounter two locals. They immediately draw their weapons.
+The 19th mission, called Explore Hypsis, begins. The planet clearly does not belong to Pantocorp; there is some kind of outpost located right in the middle of the jungle. Witya and Diana land nearby and encounter two locals. They immediately draw their weapons.
 
 **Warmer:** Pantocorp isn't welcome here.  
 **Tuzik:** Get the Nether out of here.  
@@ -660,7 +679,7 @@ Witya takes the device. The cutscene ends. The heroes need to return to their sh
 
 Also on the planet, there will be a jungle where heroes can search for Haufitum. A cave with a monster containing an Unbinil Bolt, as well as a Merc-4-more outpost with their terminal and a Nirgenium Shard.
 
-On the planet Collin, the 16th mission, I want there to be a fairly large clearing containing a certain number of cards—ideally around 12—in which Sergay Hepunkt, Dina Hepunkt's father, will tell the story of how he escaped from pirates.
+On the planet Collin, the 20th mission, called Find the Grinter, I want there to be a fairly large clearing containing a certain number of cards—ideally around 12—in which Sergay Hepunkt, Dina Hepunkt's father, will tell the story of how he escaped from pirates.
 
 As soon as the first card falls into the hands of Witya or Diana, the following dialogue takes place:
 
@@ -698,7 +717,7 @@ Ammo and the bolt wallet are shared between characters. However, the wallet link
 
 Making the bolt wallet independent makes no sense whatsoever. Trading at terminals that accept bolts will be available for both characters, and since the arsenal is shared, this would only introduce extra difficulties with the "last hit" on an enemy or smashing crates.
 
-In the next, final, 17th mission, they dock with the flagship. They are cleared through because they are piloting Pantocorp fighters. However, they have to fight their way to the bridge itself.
+In the next, final, 21th mission, called Come to last meeting, they dock with the flagship. They are cleared through because they are piloting Pantocorp fighters. However, they have to fight their way to the bridge itself.
 
 At the end, right in front of the bridge, two robots hide behind hidden doors, and as soon as Witya and Diana run up to the bridge entrance, they reveal themselves and aim their guns at Greig's head.
 
@@ -739,7 +758,7 @@ While they are fighting, the following dialogue takes place:
 **Boris:** Oh, who would've even known? Everyone would only know about the rescue! Evil Pantocorp turned out to be evil once again!  
 **Taisi:** Right... Just like they never found out how Pantocorp came to power.
 
-The Pantopet is defeated.
+The Pantopet is defeated. Boris is injured.
 
 **Witya:** Didn't you say this thing would make the Pantopet good?
 
@@ -752,7 +771,7 @@ Boris opens a hidden door, revealing a cell containing Peter Koen. Boris release
 Boris freezes in surprise for a moment...
 
 **Boris:** Tha... thank you. Did you... forgive me?  
-**Witya:** No. I saved your life, but nothing more. I haven't forgiven you, and should I even have to?
+**Witya:** No. You simply didn't deserve such a fate, but nothing more. I haven't forgiven you, and should I even have to?
 
 A gunshot rings out.
 
