@@ -4,7 +4,7 @@
 
 ---
 
-Shortly before the events of the game, Diana Clum arrives in the Ellesmere galaxy following a tip from Krunch. According to the information received, Pantopet could allegedly prevent her from completing the destruction of all paired Charoites in the dimension.
+Shortly before the events of the game, Diana Clum arrives in the Ellesmere galaxy following a tip from Crutch. According to the information received, Pantopet could allegedly prevent her from completing the destruction of all paired Charoites in the dimension.
 
 Prisoner Boris Hartocat is brought into the cell containing prisoner number 2, namely Linuscus Leslie Unlas. The very same Boris for whom Witya built a prosthetic.
 
