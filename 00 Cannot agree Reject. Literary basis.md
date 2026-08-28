@@ -566,7 +566,7 @@ She opens the compartment on her device again, inserts the stone from the museum
 **Witya:** It blew up. Quand blew it up himself.  
 **Diana:** Right... Let's hope no more paired ones are left there.  
 **Witya:** Why is this so important?  
-**Diana:** Um... Exactly because of what made this crystal dangerous in the first place.
+**Diana:** Um... Exactly because of what made this crystal dangerous.
 
 After this, players need to return to Tonia and hand over the stone. As soon as they do, the following dialogue takes place:
 
@@ -581,7 +581,7 @@ Tsaimen comes out to meet them with a special device that looks like a small spy
 **Witya:** No. This stone is straight from the museum. Do you think we could have somehow miraculously stumbled upon another one just like it? Like they're just lying around under our feet?  
 **Tsaimen:** Fair point, but still...  
 **Diana:** That means it just got fuzzy in your memory. You saw it once and then started to romanticize it.  
-**Tsaimen:** Fine. Let's go.
+**Tsaimen:** Fine.
 
 They go inside, and Tsaimen blows away a large clump of dust, revealing a small white pebble underneath.
 
@@ -660,7 +660,7 @@ Witya takes the device. The cutscene ends. The heroes need to return to their sh
 
 Also on the planet, there will be a jungle where heroes can search for Haufitum. A cave with a monster containing an Unbinil Bolt, as well as a Merc-4-more outpost with their terminal and a Nirgenium Shard.
 
-On the planet Collin, the 16th mission, I want there to be a fairly large clearing containing a certain number of cards—ideally around 12—in which Dmitry Hepunkt, Dina Hepunkt's father, will tell the story of how he escaped from pirates.
+On the planet Collin, the 16th mission, I want there to be a fairly large clearing containing a certain number of cards—ideally around 12—in which Sergay Hepunkt, Dina Hepunkt's father, will tell the story of how he escaped from pirates.
 
 As soon as the first card falls into the hands of Witya or Diana, the following dialogue takes place:
 
@@ -711,7 +711,7 @@ They half-turn their heads.
 **Diana:** I felt it in my tail that this would happen.  
 **Katya:** You don't have a tail.  
 **Diana:** Thanks. Excellent reminder. And... it's an idiom.  
-**Kat:** What is an idiot?
+**Katya:** What is an idiot?
 
 The heroes are led inside the command bridge. Pyotr Koen is sitting inside.
 
