@@ -430,7 +430,7 @@ Players need to aim for the mech's legs, arms, or head to avoid hitting the cell
 **Taisi:** Team?  
 **Diana:** Team.
 
-At this moment, one of the robot's arms breaks off, but Kat bats it away in the other direction.
+At this moment, one of the robot's arms breaks off, but Katya bats it away in the other direction.
 
 The heroes need to return to the landing pad so Katya can downscale back into her peaceful form.
 
