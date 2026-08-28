@@ -769,7 +769,7 @@ Witya and Diana turn around.
 **Kevin:** For everyone! Everyone whom my invention stripped of freedom... Of life. And for those who... Did this to you.  
 **Taisi:** You... You've changed, Kevin. I no longer see the man I loved standing before me. Not a killer. I... I'm leaving. With Diana.  
 **Kevin:** You're right. I'm afraid even you won't understand what it's like to watch helplessly as your invention brings nothing but pain. And you too... You've changed. The truth you tried to tell would have triggered a civil war. And you understood that! And what about now? Did they rewire your brain during robotization?  
-**Witya:** Alright, excuse me, Mr. Vendetta, but we actually have... Well, the Doomsday Clock is ticking. How exactly do you picture ridding the galaxy of the Pantopets right now? Are we just gonna watch it burn?  
+**Witya:** Excuse me, Mr. Vendetta, but we actually have... How exactly do you picture ridding the galaxy of the Pantopets right now? Are we just gonna watch it burn?  
 **Diana:** Especially considering that the device only made things worse...  
 **Kevin:** Hand it here, let me take a look.
 
