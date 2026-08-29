@@ -472,10 +472,10 @@ As soon as they enter the main laboratory, the following dialogue takes place:
 **Diana:** I wonder if there would even be any point to it, considering the aggressive version has now been multiplied...  
 **Greig Ventre:** All is not lost yet! This can be done remotely. If only we could find a transmitter of such power. We have everything. Except for a hypnotic stone, a psychowave emitter, and... Grinter pheromones.  
 **Diana:** Great. And where are we supposed to look for all of this?  
-**Greig Ventre:** The first one is definitely held by Tsaimen Tarius on Tonia. The psychowave emitter is with Kevin Mayatnikus on Hypsis. Grinters inhabit Collin.  
+**Greig Ventre:** The first one is definitely held by Tsaimen Tarius on Tonia. The psychowave emitter is with Keone Mayatnikus on Hypsis. Grinters inhabit Collin. 
 **Witya:** Let me guess. They'll want to kill us in all three places.  
 **Greig Ventre:** No. Probably only in one.  
-**Witya:** Alas. Pantocorp is not on our side, so... I need your Pantocard.  
+**Witya:** Alas. Pantocorp is not on our side, Merc - 4 - more is not on our side so.. And i need your Pantocard.  
 **Greig Ventre:** What?  
 **Witya:** Ammo doesn't buy itself. Mine is blocked.  
 **Greig Ventre:** Ah. Give it here. I know how to fix this.  
@@ -511,7 +511,7 @@ They arrive on Tonia and find a city engulfed in an uprising, which is being act
 **Diana:** Why didn't you tell us this earlier? I hope Greig isn't using us...  
 **Taisi:** No. This story is only known by the late Lucius Koen and... Mayatnikus himself.  
 **Witya:** How exactly did they do it?  
-**Taisi:** Well, it's not a very interesting story. As a major corporation, they had lobbyists in parliament. Then Kevin, back when he was a research psychotherapist, invented the psychowave emitter. Except... The invention quickly found an alternative use... For decisions considered hostile to Pantocorp, loyal operatives triggered releases of Cortisol and Noradrenaline, and for decisions in favor—Dopamine, Serotonin, and Oxytocin.  
+**Taisi:** Well, it's not a very interesting story. As a major corporation, they had lobbyists in parliament. Then Keone, back when he was a research psychotherapist, invented the psychowave emitter. Except... The invention quickly found an alternative use... For decisions considered hostile to Pantocorp, loyal operatives triggered releases of Cortisol and Noradrenaline, and for decisions in favor—Dopamine, Serotonin, and Oxytocin.  
 **Witya:** Can I get that in plain Galactic? I didn't understand a thing.  
 **Taisi:** In short, decisions for the corporation made everyone feel joy, and decisions against it caused fear and anxiety. They were literally controlling their feelings.  
 **Kat:** Yes... For me, it was a massive revelation that a topic like this turned out to be so close to robots... For me, it was a mystery, but it turned out to be so simple...  
@@ -641,7 +641,7 @@ The exact same ships land in the exact same spot, only this time Witya and Diana
 **Tuzik:** Then get the Nether out of here.  
 **Warmer:** No, let them ask.  
 **Tuzik:** We don't need extra rivals.  
-**Diana:** You're no rivals to us. We need to meet with Kevin Mayatnikus.  
+**Diana:** You're no rivals to us. We need to meet with Keone Mayatnikus.  
 **Tuzik:** How do you know our boss?  
 **Witya:** Greig Ventre told us.  
 **Warmer:** Who? Ah, never mind. If you win the races, he might agree to meet with you.  
@@ -650,7 +650,7 @@ The exact same ships land in the exact same spot, only this time Witya and Diana
 
 I won't bloat the game with activities too much, since I already have cactus collecting, the race with Waspin Tobroth, and the Merc-4-more arena. This station with the arena is something like the Continental Hotel from John Wick, where bounty contracts do not apply. Moreover, the heroes are allowed in even when they cruise around in Pantocorp fighters, because Merc-4-more is currently hired directly to capture Diana and Witya, and they are not at war with each other.
 
-So there will be only one round of races there. As soon as Witya and Diana win them, Kevin Mayatnikus will meet with them. Kevin has the exact same gold ring with a triangle inside a square as Taisi.
+So there will be only one round of races there. As soon as Witya and Diana win them, Keone Mayatnikus will meet with them. Keone has the exact same gold ring with a triangle inside a square as Taisi.
 
 **Taisi:** I... I'll stay here.  
 **Diana:** Why?  
@@ -658,22 +658,22 @@ So there will be only one round of races there. As soon as Witya and Diana win t
 
 They enter the room without Taisi.
 
-**Kevin:** Hello. I've already been warned about why you came. Well, it's a definite no. No, no, and no again!  
+**Keone:** Hello. I've already been warned about why you came. Well, it's a definite no. No, no, and no again!  
 **Witya:** We know. But this is the only chance to prevent the Pantopet invasion.  
-**Kevin:** Greig Ventre is lying to you! He's just like Lucius was! Or do you think he became the right-hand man just for his pretty face?  
+**Keone:** Greig Ventre is lying to you! He's just like Lucius was! Or do you think he became the right-hand man just for his pretty face?  
 **Diana:** No, Pantopet is a real danger.  
 **Witya:** And you're just gonna sit there and watch the galaxy burn? Like you did back then?  
-**Kevin:** What? How dare you...
+**Keone:** What? How dare you...
 
 The door opens. Taisi walks in.
 
 **Taisi:** Under the onset of the third spring, Under the dawn among the wet leaves...
 
-Kevin freezes dead in his tracks.
+Keone freezes dead in his tracks.
 
-**Kevin:** Ta... Taisi? What? What did they do to you?  
+**Keone:** Ta... Taisi? What? What did they do to you?  
 **Taisi:** I... I tried to, but... You see for yourself. Give them the device. They... They really need it. Not to control the galaxy...  
-**Kevin:** Alright...
+**Keone:** Alright...
 
 Witya takes the device. The cutscene ends. The heroes need to return to their ships.
 
@@ -775,7 +775,7 @@ Boris freezes in surprise for a moment...
 
 A gunshot rings out.
 
-**Taisi:** Kevin?
+**Taisi:** Keone?
 
 Witya and Diana turn around.
 
@@ -801,7 +801,7 @@ Keone turns his eyes down and to the side.
 
 Witya hands the device over to Kevin.
 
-**Kevin:** Well, there's only... A couple of buttons. The process was simply run... in reverse.
+**Keone:** Well, there's only... A couple of buttons. The process was simply run... in reverse.
 
 Credits.
 
