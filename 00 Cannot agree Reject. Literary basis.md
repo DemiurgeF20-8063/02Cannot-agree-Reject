@@ -779,18 +779,25 @@ A gunshot rings out.
 
 Witya and Diana turn around.
 
-**Taisi:** But... Why? What for?  
-**Diana:** Great! And how are we supposed to activate this thing now...  
-**Kevin:** Because Graig and Lucius are cut from the same cloth. You were right, Witya. I was just watching the galaxy burn. But now...  
-**Taisi:** And what did you do... Just followed us on our heels and killed one of them?  
-**Kevin:** I had to do it.  
-**Taisi:** Had to for whom?  
-**Kevin:** For everyone! Everyone whom my invention stripped of freedom... Of life. And for those who... Did this to you.  
-**Taisi:** You... You've changed, Kevin. I no longer see the man I loved standing before me. Not a killer. I... I'm leaving. With Diana.  
-**Kevin:** You're right. I'm afraid even you won't understand what it's like to watch helplessly as your invention brings nothing but pain. And you too... You've changed. The truth you tried to tell would have triggered a civil war. And you understood that! And what about now? Did they rewire your brain during robotization?  
-**Witya:** Excuse me, Mr. Vendetta, but we actually have... How exactly do you picture ridding the galaxy of the Pantopets right now? Are we just gonna watch it burn?  
-**Diana:** Especially considering that the device only made things worse...  
-**Kevin:** Hand it here, let me take a look.
+**Diana:** Great! And how are we supposed to activate this thing now...
+**Keone:** You were right, Witya. I was just watching the galaxy burn. But now...
+**Taisi:** After 75 years?
+**Keone:** And what could I have done back then? Tell everyone everything and... oh...
+
+Keone turns his eyes down and to the side.
+
+**Taisi:** You're right... I'm sorry. In all this time, I've only seen one riot... I spoke words into the void. I... I don't want to be here anymore. I'm leaving.
+**Keone:** You're leaving, but... Why?
+**Taisi:** Because no one sees or hears me here. People here are just vegetables. But with them... I can actually help someone. I feel that they can. Change the world. I... I want to be a part of that.
+**Keone:** But... What about me?
+**Taisi:** Will it even bring you joy to look at me like this? I... I don't want to cause you pain. And besides... Maybe my help is needed somewhere else...
+**Keone:** And what about that one? Yeah, and... Maybe they aren't burning? Maybe everything is fine over there?
+**Taisi:** Ellesmere isn't burning anymore. And... you're right, maybe. I... I promise to return if everything is fine over there. Just... let me go.
+**Keone:** Alright...
+**Diana:** Ahem...
+**Witya:** Alright, this is all very touching, sorry, but seriously... Ellesmere is still burning. How exactly are we gonna get rid of the Pantopets?
+**Diana:** Especially considering that the device only made things worse...
+**Keone:** Hand it here, let me take a look.
 
 Witya hands the device over to Kevin.
 
