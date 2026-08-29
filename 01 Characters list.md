@@ -57,21 +57,22 @@ Taisi shares with Katya what she knows: stories from the underbelly of PantoCorp
 
 ---
 
-# Kevin Mayatnikus
+# Keone Mayatnikus
 
-***Name and Surname Meaning:*** The name and surname come from Kevin Mitnikus, the most famous hacker in human history. Mitnick's main gimmick was hacking the most complex servers of the Pentagon and megacorporations not only using code, but also through social engineering. He is the creator of the psychowave emitter, that brought Pantocorp to power.
+***Name Meaning:*** he name and surname come from Kevin Mitnikus, but distorted to word "one".
+**Surname Meaning:*** The surname come from Kevin Mitnikus, the most famous hacker in human history. Mitnick's main gimmick was hacking the most complex servers of the Pentagon and megacorporations not only using code, but also through social engineering. He is the creator of the psychowave emitter, that brought Pantocorp to power.
 
 ---
 
 # Remhen Rev
 
-***Name and Surname Meaning:*** The word is formed by the reverse pronunciation and division of the German word "Wernehmer," which literally translates as "interrogator." He interrogates Vitya and Boris before offering them a contract. He is also the one who subsequently dumps Vitya in the middle of the desert. Apparently, his powers are not limited to interrogations, and he exercises a certain degree of control over the soldiers who signed the contract under an agreement that cannot be rejected.
+***Name and Surname Meaning:*** The word is formed by the reverse pronunciation and division of the German word "Wernehmer," which literally translates as "interrogator." He interrogates Witya and Boris before offering them a contract. He is also the one who subsequently dumps Witya in the middle of the desert. Apparently, his powers are not limited to interrogations, and he exercises a certain degree of control over the soldiers who signed the contract under an agreement that cannot be rejected.
 
 ---
 
 # Tsaimen Tarius
 
-***Name and Surname Meaning:*** The words are derived from the Latin Caementarius, which translates into English as "Mason." This odd fellow, a stone collector, gives the heroes the Hypnotic Stone in exchange for the Resonance Charoite, which Vita and Diana have to retrieve from the PantoCorp museum.
+***Name and Surname Meaning:*** The words are derived from the Latin Caementarius, which translates into English as "Mason." This odd fellow, a stone collector, gives the heroes the Hypnotic Stone in exchange for the Resonance Charoite, which Witya and Diana have to retrieve from the PantoCorp museum.
 
 ---
 
