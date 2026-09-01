@@ -4,10 +4,6 @@
 Some characters will take part in several campaigns, so they can appear repeatedly in different documents. For some characters, separate cards will be created in the future with their history throughout all the campaigns in which they took part and will be added to the **Mechanic-and-Kit-Core-Dimensions**.
 
 ---
-
-***DISCLAIMER:*** The plot of this game is in the very early stages of development. Many aspects are subject to revision, and this character roster is far from final.
-
----
 # Witya Peros
 
 ***Name Meaning***: From the word Witty. It was given to him by Katya from the word Witty, which from the language of its creators was translated as witty.
@@ -32,7 +28,7 @@ Some characters will take part in several campaigns, so they can appear repeated
 # Diana Clum
 
 ***Name Meaning:*** Why Diana is a personal story that I don't want to share publicly.
-***Surname meaning:*** Clum is Latin for Cloud—she's constantly running around under a Laryngoguise, constantly changing shapes. And also Clum from Clumsy. She's clumsy. She's running under a Laryngoguise, constantly changing shapes, and storming PantoCorp bases? Because she's a lone rebel trying to steal the secret Pantopet prototype from that "colonialist" monster, Peter Coen.
+***Surname meaning:*** Clum is Latin for Cloud—she's constantly running around under a Laryngoguise, constantly changing shapes. And also Clum from Clumsy. She's clumsy. She's running under a Bioguise, constantly changing shapes, and storming Alleonzern bases? Because she's a lone rebel trying to steal the secret Allemaus prototype from that "colonialist" monster, Peter Coen.
 
 ---
 
@@ -45,7 +41,7 @@ Some characters will take part in several campaigns, so they can appear repeated
 
 # Greig Ventre
 
-***Name and Surname Meaning:***: The name and surname comes from J. Craig Venter, whose team created the world's first synthetic bacterium with entirely artificial, computer-generated DNA. This scientist was Peter Koen's right-hand man and developed the Pantopet, but he was prevented from completing the work because the Pantopet was stolen. Diana and Witya eventually approached him, and he assembled D.Y.N.O. 2 for them, both a weapon and a device to pacify the Pantopets. However, Greig himself had his own plans and motives.
+***Name and Surname Meaning:***: The name and surname comes from J. Craig Venter, whose team created the world's first synthetic bacterium with entirely artificial, computer-generated DNA. This scientist was Peter Koen's right-hand man and developed the Allemaus, but he was prevented from completing the work because the Allemaus was stolen. Diana and Witya eventually approached him, and he assembled D.Y.N.O. 2 for them, both a weapon and a device to pacify Allemauses. However, Greig himself had his own plans and motives.
 
 
 ---
@@ -53,14 +49,14 @@ Some characters will take part in several campaigns, so they can appear repeated
 # Taisi Athina
 
 ***Name and Surname Meaning:*** Her name and surname come from Tais Athins (Taisia Athinos), the Muse and keeper of stories. She understands how fleeting power is and how eternal feelings are.
-Taisi shares with Katya what she knows: stories from the underbelly of PantoCorp, tales of how organics are willing to sacrifice themselves for their loved ones, and how emotions break through any of Peter Cohen's harsh, cold scripts and orders. This makes Katya's training sincere and "dirty," without pompous metaphysics. Taisi becomes Diana Clum's partner in her adventures.
+Taisi shares with Katya what she knows: stories from the underbelly of Alleonzern, tales of how organics are willing to sacrifice themselves for their loved ones, and how emotions break through any of Peter Cohen's harsh, cold scripts and orders. This makes Katya's training sincere and "dirty," without pompous metaphysics. Taisi becomes Diana Clum's partner in her adventures.
 
 ---
 
 # Keone Mayatnikus
 
 ***Name Meaning:*** he name and surname come from Kevin Mitnikus, but distorted to word "one".
-**Surname Meaning:*** The surname come from Kevin Mitnikus, the most famous hacker in human history. Mitnick's main gimmick was hacking the most complex servers of the Pentagon and megacorporations not only using code, but also through social engineering. He is the creator of the psychowave emitter, that brought Pantocorp to power.
+**Surname Meaning:*** The surname come from Kevin Mitnikus, the most famous hacker in human history. Mitnick's main gimmick was hacking the most complex servers of the Pentagon and megacorporations not only using code, but also through social engineering. He is the creator of the psychowave emitter, that brought Alleonzern to power.
 
 ---
 
@@ -72,7 +68,7 @@ Taisi shares with Katya what she knows: stories from the underbelly of PantoCorp
 
 # Tsaimen Tarius
 
-***Name and Surname Meaning:*** The words are derived from the Latin Caementarius, which translates into English as "Mason." This odd fellow, a stone collector, gives the heroes the Hypnotic Stone in exchange for the Resonance Charoite, which Witya and Diana have to retrieve from the PantoCorp museum.
+***Name and Surname Meaning:*** The words are derived from the Latin Caementarius, which translates into English as "Mason." This odd fellow, a stone collector, gives the heroes the Hypnotic Stone in exchange for the Resonance Charoite, which Witya and Diana have to retrieve from the Alleonzern museum.
 
 ---
 
@@ -85,13 +81,13 @@ Taisi shares with Katya what she knows: stories from the underbelly of PantoCorp
 
 # Htap Elet
 
-***Name and Surname Meaning:*** A Pantocorp scientist who pretended to be a Telepath. This word, pronounced backwards, actually became his first and last name. Gave Witya Pantomover
+***Name and Surname Meaning:*** An Alleonzern scientist who pretended to be a Telepath. This word, pronounced backwards, actually became his first and last name. Gave Witya Allemover
 
 ---
 
 # Émil Claperon
 
-***Name and Surname Meaning:***: The name and surname come from Benoît Paul Émile Clapeyron. He was the first to scientifically describe and prove the process of sublimation from a thermodynamic perspective. He gave Witya a PantoFreezer
+***Name and Surname Meaning:***: The name and surname come from Benoît Paul Émile Clapeyron. He was the first to scientifically describe and prove the process of sublimation from a thermodynamic perspective. He gave Witya a Allefrieren
 
 ---
 
@@ -121,13 +117,13 @@ Taisi shares with Katya what she knows: stories from the underbelly of PantoCorp
 
 # Nikita
 
-***Name and Surname Meaning:***: One of the test subjects for PantoPet testing and filming commercials with him.
+***Name and Surname Meaning:***: One of the test subjects for Allemaus testing and filming commercials with him.
 
 ---
 
 # Chev Khrush
 
-***Name and Surname Meaning:***: The second test subject for PantoPet and for filming commercials with him. He loves Kukuruza.
+***Name and Surname Meaning:***: The second test subject for Allemaus and for filming commercials with him. He loves Kukuruza.
 
 ---
 
