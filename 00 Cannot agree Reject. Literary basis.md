@@ -4,7 +4,7 @@
 
 ---
 
-Shortly before the events of the game, Diana Clum arrives in the Ellesmere galaxy following a tip from Crutch. According to the information received, Pantopet could allegedly prevent her from completing the destruction of all paired Charoites in the dimension.
+Shortly before the events of the game, Diana Clum arrives in the Ellesmere galaxy following a tip from Crutch. According to the information received, Allemaus could allegedly prevent her from completing the destruction of all paired Charoites in the dimension.
 
 Prisoner Boris Hartocat is brought into the cell containing prisoner number 2, namely Linuscus Leslie Unlas. The very same Boris for whom Witya built a prosthetic.
 
@@ -95,7 +95,7 @@ On low difficulty, the Nanomite ship will not have its own weaponry, but on medi
 
 After some time in battle, or if the health of one of the ships reaches low values, an in-game cutscene will trigger. Scene:
 
-**Boris:** Thanks for the support, things look bleak. See you on Pantoko.
+**Boris:** Thanks for the support, things look bleak. See you on Allestad.
 
 After this, Boris flies out of the thick of the battle, starts the needle drive, and rushes into the unknown.  
 Witya and some of the Tonata Rangers follow him.
@@ -133,7 +133,7 @@ Witya steers the ship toward the object and picks it up.
 
 After this, he starts the needle drive and flies away after Boris. The Tonata Ranger robots are left watching them leave.
 
-Boris and Witya arrive on the planet Pantoko and step out of their fighters.
+Boris and Witya arrive on the planet Allestad and step out of their fighters.
 
 **Boris:** Oh, so even like this, I didn't shake you off my tail.  
 **Katya:** But you don't have a tail...  
@@ -228,20 +228,20 @@ This marks the end of the first, tutorial mission, which will be called: "Catchi
 
 Alright, moving forward it won't be as detailed, just quickly throwing together the ideas I have right now:
 
-Next mission will be completing an obstacle course with enemies—a graduation exam from accelerated military training. Second mission will be called "Pass the Exam". This exam will take place on the Pantocorp Flagship.
+Next mission will be completing an obstacle course with enemies—a graduation exam from accelerated military training. Second mission will be called "Pass the Exam". This exam will take place on the Alleonzern Flagship.
 
-The third mission will be clearing outer space above the planet Lebourg. Witya and Boris will go up against Merc-4-more fighters, supported by a heavy Pantocorp corvette.  
+The third mission will be clearing outer space above the planet Lebourg. Witya and Boris will go up against Merc-4-more fighters, supported by a heavy Alleonzern corvette.  
 The third mission will be called "Clear Lebourg's Orbit."
 
 The next mission will simply be protecting a tour in the armed forces museum on this planet from the remnants of the Merc-4-more forces. This will be a timed mission, with no real need to run around anywhere. The fourth mission will be called: "Cover the Tour".
 
 Once the timer expires, the mission will be completed.
 
-However, it will turn out to be just a distraction. In the next mission, a Mysterious Thief will steal Pantopet.
+However, it will turn out to be just a distraction. In the next mission, a Mysterious Thief will steal Allemaus.
 
-Witya and Boris are quickly rerouted to the main Pantocorp laboratory on Alajoya. Fighting their way through Merc-4-more mercenaries, they push towards the main room, but only manage to see the Thief escaping with Pantopet. Instead of him, a Merc-4-more boss tank stands in their way.
+Witya and Boris are quickly rerouted to the main Alleonzern laboratory on Alajoya. Fighting their way through Merc-4-more mercenaries, they push towards the main room, but only manage to see the Thief escaping with Allemaus. Instead of him, a Merc-4-more boss tank stands in their way.
 
-In this mission, he will also meet Htap Elet, who will explain that to slow the heroes down, the enemies scattered the platforms used by the personnel to move around. He will provide them with a Pantomover, which will help them change the geometry of the level to reach the main room.
+In this mission, he will also meet Htap Elet, who will explain that to slow the heroes down, the enemies scattered the platforms used by the personnel to move around. He will provide them with a Allemover, which will help them change the geometry of the level to reach the main room.
 
 There will be another locked, classified section in this museum, but it will be impossible to break into it for now without a Lockpasser.
 
@@ -249,7 +249,7 @@ Witya transmits a message that the trail of the Mysterious Thief has been lost.
 
 The fifth mission will be called: "Meet Them First"
 
-In addition to story missions, players can take "contracts" at Pantocorp terminals to earn a special currency: Pantocards. This currency can be used to buy weapons, ammo, restore health, and purchase armor at Pantocorp terminals. I haven't figured out what these contracts are yet.
+In addition to story missions, players can take "contracts" at Alleonzern terminals to earn a special currency: Allecards. This currency can be used to buy weapons, ammo, restore health, and purchase armor at Alleonzern terminals. I haven't figured out what these contracts are yet.
 
 The sixth mission doesn't have to be taken right away; players can complete a few contracts first. In the sixth mission, Boris and Witya are sent to the acid planet Batantun with aggressive fauna to clear a site for future acid extraction from these lakes. There will also be an abandoned building there, locked from the inside. To investigate it, they need Katya. For this mission, both heroes will be issued Railstifts.
 
@@ -272,7 +272,7 @@ In orbit of this planet, Witya and Boris will also be met by Waspin Tobroth.
 **Witya:** Oh! That's exactly what I need.  
 **Waspin:** Know a robot that's missing one? Great! And what can you offer?  
 **Witya:** Bolts...  
-**Waspin:** I'm a legal racer, I only accept Pantocards.  
+**Waspin:** I'm a legal racer, I only accept Allecards.  
 **Boris:** Hey! I wouldn't mind participating either.  
 **Waspin:** I only have one Swing-armlet. Alright, whoever comes first gets it.
 
@@ -287,23 +287,23 @@ In the next mission, Remhen Rev says that they managed to catch the Mysterious T
 Witya and Boris land on this planet and, among the sparse islands, they find the Mysterious Thief's home. By what marker they find it—I don't know yet. The house features a fairly simple interior: a table, a chair, a bed, and a shower with a toilet. There will also be a locked room inside, which can only be opened using a Lockpasser. Inside this room, players will find a Chickenator. Any items that would hint at the Thief's personality traits are completely absent. Only a device functioning as a voice recorder is present.
 
 The following log will be recorded on the voice recorder:
-"Okay, I convinced Quand to blow up the Harmony Quite in Tonata. It wasn't as hard as I thought it would be. Aidex will love this news... If the Encapsulation is ever lifted... But... Why did Crutch send me here? There definitely shouldn't be any Resonant Charoite in Ellesmere... And what does Pantopet have to do with any of this? Whatever, doesn't matter... I need to destroy the specimen by tying it to a rocket on Celeseck. We'll save this galaxy since we have to..."
+"Okay, I convinced Quand to blow up the Harmony Quite in Tonata. It wasn't as hard as I thought it would be. Aidex will love this news... If the Encapsulation is ever lifted... But... Why did Crutch send me here? There definitely shouldn't be any Resonant Charoite in Ellesmere... And what does Allemaus have to do with any of this? Whatever, doesn't matter... I need to destroy the specimen by tying it to a rocket on Celeseck. We'll save this galaxy since we have to..."
 
 **Witya:** Excellent. The villain explained his plan as always.
 
 The seventh mission will be called: "Intrude into Personal Life."
 
-Witya arrives on Celeseck. This will be a cold planet where Witya will notice that Pantocorp doesn't really have anyone to fight, yet they are actively arming themselves. There, as a result of the Thief's actions, the Swillant Complex will be flooded, and to advance further, Emil Claperon will give Witya a Pantofreezer.
+Witya arrives on Celeseck. This will be a cold planet where Witya will notice that Alleonzern doesn't really have anyone to fight, yet they are actively arming themselves. There, as a result of the Thief's actions, the Swillant Complex will be flooded, and to advance further, Emil Claperon will give Witya a Allefreezer.
 
-There, they finally confront the Thief and retrieve Pantopet from him. Right after this, Boris immediately runs away. Witya fails to keep an eye on him.
+There, they finally confront the Thief and retrieve Allemaus from him. Right after this, Boris immediately runs away. Witya fails to keep an eye on him.
 
-The Eighth mission will be called: "Retrieve Pantopet"
+The Eighth mission will be called: "Retrieve Allemaus"
 
 The next mission doesn't have to be taken right away; players can complete a few contracts first.
 
 Actually, it will begin with Witya and Remhen Rev flying in some fighter in the middle of the desert planet Regsiton. Witya doesn't understand why he was brought here. After that, Remhen Rev drops Witya right in the middle of the sands. Mission 8 begins.
 
-The second player at this moment will control Diana Clum, who will clash with a small Pantocorp garrison in the orbit of this planet.
+The second player at this moment will control Diana Clum, who will clash with a small Allemaus garrison in the orbit of this planet.
 
 Destroying the flagship rewards a Nirgenium Shard.
 
@@ -314,20 +314,20 @@ For 10 cacti, ningh mission, he opens the path to the nearest city; for 24, he g
 Witya goes down the canyon and comes out onto a small clearing. The Mysterious Thief's ship flies up to him and lands. The Thief jumps onto the roof and threatens Witya with a weapon. In response, Witya points his gun at him.
 
 **Witya:** Didn't get enough on that train, or what?  
-**Thief:** Return Pantopet. Do you even realize what you've done?
+**Thief:** Return Allemaus. Do you even realize what you've done?
 
 At this moment, the thief slips, falls off the ship, and her disguise glitches out. Under the disguise is a Fustix. Diana Clum.
 
 **Witya:** Woah, he is she, and... A Fustix? You're a Fustix? I'm... I've never seen another member of my species before!  
 **Diana:** It would be weird if you had. That doesn't change the point...  
-**Witya:** I can't. It's already been handed back to Pantocorp.  
+**Witya:** I can't. It's already been handed back to Alleonzern.  
 **Diana:** Nether... Well, look what you've done...
 
-She shows him a screen displaying Pantopet's trials and its aggression.
+She shows him a screen displaying Allemaus's trials and its aggression.
 
 **Witya:** Well, yeah... That's unfortunate, of course, but... It won't change anything.  
 **Diana:** But why? Why are you cooperating with them?  
-**Witya:** Oh, long story... I was recently in the Tonata Rangers, and at some point, I chased a criminal... He led me into another galaxy, and... We had a shootout right in the middle of Pantoko. After that, I ended up in prison, and...  
+**Witya:** Oh, long story... I was recently in the Tonata Rangers, and at some point, I chased a criminal... He led me into another galaxy, and... We had a shootout right in the middle of Allestad. After that, I ended up in prison, and...  
 **Diana:** And after that, they shoved a cannon fodder contract in your face?  
 **Witya:** And that's not all. They are holding my friend and blackmailing me...  
 **Diana:** What? Don't tell me it's another Fustix. I've already racked my brain trying to figure out how you even ended up here. And in the wrong galaxy, to top it off.  
@@ -342,7 +342,7 @@ She shows him a screen displaying Pantopet's trials and its aggression.
 
 The Tenth mission will be called "Change your Mind".
 
-In the next scene, they fly up to the Merc-4-more station and engage in arena battles. Together. The arena battles will consist of blocks containing several trials. Completing the first block rewards a Bioguise and called as 11th mission - Win in the Arena. The second rewards an Unbinil Bolt, and the third rewards a Weapon. Each battle will also have a separate mini-reward, including a few Pantocards.
+In the next scene, they fly up to the Merc-4-more station and engage in arena battles. Together. The arena battles will consist of blocks containing several trials. Completing the first block rewards a Bioguise and called as 11th mission - Win in the Arena. The second rewards an Unbinil Bolt, and the third rewards a Weapon. Each battle will also have a separate mini-reward, including a few Allecards.
 
 After this, the player will have the opportunity to complete several contracts. If they attempt to choose one, Diana will react.
 
@@ -353,7 +353,7 @@ After this, the player will have the opportunity to complete several contracts. 
 
 The opportunity to go on the 12th mission also opens up. Upon starting the 9th mission, contracts cease to be available. The mission will consist of breaking into the Station Custody Recycling And Processing (S.C.R.A.P.) station, located in the Avamis Nebula.
 
-On the station, both Witya and Diana will be undercover using the Bioguise, and for the first time, their enemies will be Pantocorp soldiers and tech. In addition to Kat, they will also spring Taisi Athina from there. The following dialogue will take place:
+On the station, both Witya and Diana will be undercover using the Bioguise, and for the first time, their enemies will be Alleonzern soldiers and tech. In addition to Kat, they will also spring Taisi Athina from there. The following dialogue will take place:
 
 **Katya:** A. Who are you?  
 **Witya:** Kate, it's me. Witya.
@@ -371,7 +371,7 @@ Another robot runs up to them. On her finger is an accessory unusual for a robot
 Witya looks toward Diana.
 
 **Diana:** No way. I'm not going to lug around a backpack like that on my back.  
-**Katya:** Oh, please. I became very close with her while I was here... She... she told me what feelings are... She told me about Pantocorp... A lot of things.  
+**Katya:** Oh, please. I became very close with her while I was here... She... she told me what feelings are... She told me about Alleonzern... A lot of things.  
 **Taisi:** I... I can be useful. I can help Katya navigate the tangled maintenance tunnels for service robots.  
 **Witya:** Actually... That's a solid argument. I do have a spare clemma.  
 **Diana:** Fine. We'll have to head to my place to weld a clemma on.
@@ -379,10 +379,10 @@ Witya looks toward Diana.
 The second part of the mission consists of escaping from this complex. Actually, while they are fighting their way back out, the following in-mission dialogue takes place:
 
 **Katya:** So why are you on his side?  
-**Witya:** Her. Pantopet isn't finished and is showing severe aggression. She stole him to save the galaxy. But... then I showed up...  
-**Diana:** And ruined all my plans. As a result, Pantopet is now Nether knows where.  
+**Witya:** Her. Allemaus isn't finished and is showing severe aggression. She stole him to save the galaxy. But... then I showed up...  
+**Diana:** And ruined all my plans. As a result, Allemaus is now Nether knows where.  
 **Witya:** I hope they sent him back for adjustments...  
-**Taisi:** Knowing Pantocorp... We'd better double-check that...
+**Taisi:** Knowing Alleonzern... We'd better double-check that...
 
 After they run to the ships and get inside, the next scene begins.
 
@@ -439,7 +439,7 @@ Players need to aim for the mech's legs, arms, or head to avoid hitting the cell
 
 **Diana:** Thank you. I'm in your debt.  
 **Witya:** Don't mention it... Well... Time for the second part of the deal.  
-**Diana:** If only I knew where to start. I have no idea where Pantopet is now. Maybe... Maybe the R&D department knows, but it's impossible to break in there without a Lockpasser.  
+**Diana:** If only I knew where to start. I have no idea where Allemaus is now. Maybe... Maybe the R&D department knows, but it's impossible to break in there without a Lockpasser.  
 **Witya:** This one?  
 **Diana:** What? Where did you get that?  
 **Witya:** Oh, it was just... being sold at the terminal.  
@@ -458,13 +458,13 @@ The heroes need to return to the landing pad so Katya can downscale back into he
 **Servatio:** Just kidding! I managed to reprogram the panel so that it will only trigger on your specific circuits. Fortunately... No one will ever mistake yours for anything else, it's like you're from another dimension...  
 **Katya:** You're closer to the truth than you think...
 
-The 15th mission, called Break into R&D, will initially feature a space battle to break through to the surface of Pantoko, after which the heroes, not under disguise, infiltrate that very same classified section. They don't need a disguise because Merc-4-more has already transmitted all information about them to Pantocorp.
+The 15th mission, called Break into R&D, will initially feature a space battle to break through to the surface of Allestad, after which the heroes, not under disguise, infiltrate that very same classified section. They don't need a disguise because Merc-4-more has already transmitted all information about them to Alleonzern.
 
 As soon as they enter the main laboratory, the following dialogue takes place:
 
 **Greig Ventre:** Don't touch us, we're just scientists!  
 **Witya:** We're not here to cause you any harm.  
-**Diana:** Where is Pantopet?  
+**Diana:** Where is Allemaus?  
 **Greig Ventre:** I... _Sigh_... In mass production.  
 **Diana:** Oh, Nether...  
 **Witya:** Good morning. And how are we going to clean up this mess? Do you even realize what this threatens us with?  
@@ -472,14 +472,14 @@ As soon as they enter the main laboratory, the following dialogue takes place:
 **Diana:** I wonder if there would even be any point to it, considering the aggressive version has now been multiplied...  
 **Greig Ventre:** All is not lost yet! This can be done remotely. If only we could find a transmitter of such power. We have everything. Except for a hypnotic stone, a psychowave emitter, and... Grinter pheromones.  
 **Diana:** Great. And where are we supposed to look for all of this?  
-**Greig Ventre:** The first one is definitely held by Tsaimen Tarius on Tonia. The psychowave emitter is with Keone Mayatnikus on Hypsis. Grinters inhabit Collin. 
+**Greig Ventre:** The first one is definitely held by Tsaimen Tarius on Tonia. The psychowave emitter is with Keone Mayatnikus on Hypsis. Grinters inhabit Collin.  
 **Witya:** Let me guess. They'll want to kill us in all three places.  
 **Greig Ventre:** No. Probably only in one.  
-**Witya:** Alas. Pantocorp is not on our side, Merc - 4 - more is not on our side so.. And i need your Pantocard.  
+**Witya:** Alas. PAlleonzern is not on our side, Merc - 4 - more is not on our side so.. And i need your Allecard.  
 **Greig Ventre:** What?  
 **Witya:** Ammo doesn't buy itself. Mine is blocked.  
 **Greig Ventre:** Ah. Give it here. I know how to fix this.  
-**Diana:** Well, you guys certainly have quite a Pantofetishism going on here...
+**Diana:** Well, you guys certainly have quite a Allefetishism going on here...
 
 Greig takes Witya's card, inserts it into the computer, presses a couple of buttons, and another card comes out from the other side.
 
@@ -487,15 +487,15 @@ Greig takes Witya's card, inserts it into the computer, presses a couple of butt
 **Witya:** Woah, cool.  
 **Diana:** Let's go. We need to hurry.
 
-After this, they decide to fight their way into the Pantoko hangar and hijack two of their fighters, which they successfully manage to do. This is necessary because two out of the three planets belong to Pantocorp.
+After this, they decide to fight their way into the Allestad hangar and hijack two of their fighters, which they successfully manage to do. This is necessary because two out of the three planets belong to Alleonzern.
 
-Once the card is issued, Witya regains the ability to take contracts, as well as buy and upgrade weapons at Pantocorp terminals.
+Once the card is issued, Witya regains the ability to take contracts, as well as buy and upgrade weapons at Alleonzern terminals.
 
 These three missions can be completed in any order.
 
 I'll start, perhaps, with the Hypnotic stone. The 16th mission called Find Tsaimen Tarius.
 
-They arrive on Tonia and find a city engulfed in an uprising, which is being actively suppressed by Pantocorp. As soon as they arrive, the following in-mission dialogue takes place:
+They arrive on Tonia and find a city engulfed in an uprising, which is being actively suppressed by Alleonzern. As soon as they arrive, the following in-mission dialogue takes place:
 
 **Witya:** What's going on here?  
 **Diana:** Looks like some kind of riot.  
@@ -511,7 +511,7 @@ They arrive on Tonia and find a city engulfed in an uprising, which is being act
 **Diana:** Why didn't you tell us this earlier? I hope Greig isn't using us...  
 **Taisi:** No. This story is only known by the late Lucius Koen and... Mayatnikus himself.  
 **Witya:** How exactly did they do it?  
-**Taisi:** Well, it's not a very interesting story. As a major corporation, they had lobbyists in parliament. Then Keone, back when he was a research psychotherapist, invented the psychowave emitter. Except... The invention quickly found an alternative use... For decisions considered hostile to Pantocorp, loyal operatives triggered releases of Cortisol and Noradrenaline, and for decisions in favor—Dopamine, Serotonin, and Oxytocin.  
+**Taisi:** Well, it's not a very interesting story. As a major corporation, they had lobbyists in parliament. Then Keone, back when he was a research psychotherapist, invented the psychowave emitter. Except... The invention quickly found an alternative use... For decisions considered hostile to Alleonzern, loyal operatives triggered releases of Cortisol and Noradrenaline, and for decisions in favor—Dopamine, Serotonin, and Oxytocin.  
 **Witya:** Can I get that in plain Galactic? I didn't understand a thing.  
 **Taisi:** In short, decisions for the corporation made everyone feel joy, and decisions against it caused fear and anxiety. They were literally controlling their feelings.  
 **Kat:** Yes... For me, it was a massive revelation that a topic like this turned out to be so close to robots... For me, it was a mystery, but it turned out to be so simple...  
@@ -540,18 +540,18 @@ Witya runs away from Tsaimen's house, and Tsaimen rushes out after him. Diana im
 **Diana:** Ahem. We need the Hypnotic stone.  
 **Tsaimen:** I need it more than you do!  
 **Witya:** To collect dust on a shelf?  
-**Diana:** We need it for a device that can make Pantopet good.  
-**Tsaimen:** Oh, so you came here to peddle Pantopet to me? Yesterday they tried to push a vacuum cleaner on me, and now it's you?  
+**Diana:** We need it for a device that can make Allemaus good.  
+**Tsaimen:** Oh, so you came here to peddle Allemaus to me? Yesterday they tried to push a vacuum cleaner on me, and now it's you?  
 **Diana:** I think there's something wrong with him.  
 **Witya:** Captain Obvious. Let me try. Hey, do you want a prettier stone? I mean, why do you even need this hypnotic one, it's so gray and dull...  
 **Tsaimen:** How do you know that?  
 **Witya:** I... Em... Well... From holobook. So, do you want a prettier stone?  
-**Tsaimen:** Yes! I want a Resonant Charoite! Straight from the Pantocorp museum!  
+**Tsaimen:** Yes! I want a Resonant Charoite! Straight from the Alleonzern museum!  
 **Diana:** Charoite? So that's why the ISORI sent me to this galaxy.  
 **Witya:** Who?  
 **Diana:** Oh, never mind... Let's go. Let's get him this Charoite.
 
-The 17th mission, called Raid geological Center, consists of fighting their way into the Pantocorp Geological Center on the planet Namsref. Yes. With combat. There will also be a puzzle for Katya and Taisi. As soon as they reach the main hall, where a small Charoite shard is located, and break the glass, the following dialogue will take place:
+The 17th mission, called Raid geological Center, consists of fighting their way into the Alleonzern Geological Center on the planet Namsref. Yes. With combat. There will also be a puzzle for Katya and Taisi. As soon as they reach the main hall, where a small Charoite shard is located, and break the glass, the following dialogue will take place:
 
 **Diana (taking the Charoite in her hands and examining it under a lamp):** Yes... This is an excellent specimen.  
 **Witya:** You actually know that stuff?  
@@ -615,11 +615,11 @@ After this, the heroes need to return to their ships.
 The 18th mission, called Owerhelm Merc-4-more, begins on the next planet, Hypsis. A space battle breaks out against Merc-4-more.
 
 **Witya:** I thought we smashed them...  
-**Diana:** Yeah. If this organization were that weak, wouldn't Pantocorp have ground them to dust by now?
+**Diana:** Yeah. If this organization were that weak, wouldn't Alleonzern have ground them to dust by now?
 
-The 19th mission, called Explore Hypsis, begins. The planet clearly does not belong to Pantocorp; there is some kind of outpost located right in the middle of the jungle. Witya and Diana land nearby and encounter two locals. They immediately draw their weapons.
+The 19th mission, called Explore Hypsis, begins. The planet clearly does not belong to Alleonzern; there is some kind of outpost located right in the middle of the jungle. Witya and Diana land nearby and encounter two locals. They immediately draw their weapons.
 
-**Warmer:** Pantocorp isn't welcome here.  
+**Warmer:** Alleonzern isn't welcome here.  
 **Tuzik:** Get the Nether out of here.  
 **Witya (whispering):** Maybe we can handle this without a fight? Dian, play along.
 
@@ -627,7 +627,7 @@ Witya raises his hands and backs away. Diana does the same.
 
 They get into their ships and fly away.
 
-**Tuzik:** That was kind of... Warmer, are you sure they were from Pantocorp?
+**Tuzik:** That was kind of... Warmer, are you sure they were from Alleonzern?
 
 The exact same ships land in the exact same spot, only this time Witya and Diana jump out using their Bioguise.
 
@@ -648,7 +648,7 @@ The exact same ships land in the exact same spot, only this time Witya and Diana
 **Tuzik:** The minimum bet is 2000 bolts.  
 **Witya:** You're on.
 
-I won't bloat the game with activities too much, since I already have cactus collecting, the race with Waspin Tobroth, and the Merc-4-more arena. This station with the arena is something like the Continental Hotel from John Wick, where bounty contracts do not apply. Moreover, the heroes are allowed in even when they cruise around in Pantocorp fighters, because Merc-4-more is currently hired directly to capture Diana and Witya, and they are not at war with each other.
+I won't bloat the game with activities too much, since I already have cactus collecting, the race with Waspin Tobroth, and the Merc-4-more arena. This station with the arena is something like the Continental Hotel from John Wick, where bounty contracts do not apply. Moreover, the heroes are allowed in even when they cruise around in Alleonzern fighters, because Merc-4-more is currently hired directly to capture Diana and Witya, and they are not at war with each other.
 
 So there will be only one round of races there. As soon as Witya and Diana win them, Keone Mayatnikus will meet with them. Keone has the exact same gold ring with a triangle inside a square as Taisi.
 
@@ -659,9 +659,9 @@ So there will be only one round of races there. As soon as Witya and Diana win t
 They enter the room without Taisi.
 
 **Keone:** Hello. I've already been warned about why you came. Well, it's a definite no. No, no, and no again!  
-**Witya:** We know. But this is the only chance to prevent the Pantopet invasion.  
+**Witya:** We know. But this is the only chance to prevent the Allemaus invasion.  
 **Keone:** Greig Ventre is lying to you! He's just like Lucius was! Or do you think he became the right-hand man just for his pretty face?  
-**Diana:** No, Pantopet is a real danger.  
+**Diana:** No, Allemaus is a real danger.  
 **Witya:** And you're just gonna sit there and watch the galaxy burn? Like you did back then?  
 **Keone:** What? How dare you...
 
@@ -701,7 +701,7 @@ After this, the heroes need to return to the Salka Complex. Before returning, th
 
 They hand him the components.
 
-**Greig:** Done! Knowing that they won't let you onto the Pantocorp Flagship without a fight, this thing can be used as a weapon. I made it so that toxic pheromone clouds will cause enemies to fight each other. Only, please, do not use it on Collin.  
+**Greig:** Done! Knowing that they won't let you onto the Alleonzern Flagship without a fight, this thing can be used as a weapon. I made it so that toxic pheromone clouds will cause enemies to fight each other. Only, please, do not use it on Collin.  
 **Diana:** Or what?  
 **Greig:** The details would be far too vulgar.  
 **Witya:** Awesome, so it's gonna be kinda like the D.Y.N.O.?  
@@ -711,13 +711,13 @@ They hand him the components.
 **Diana:** Just what we needed...  
 **Greig:** Alas. It's a bit more complicated than just pressing a button here.
 
-Witya grabs the gun, examines it, and holsters it on his back. Because the weapon inventory is shared, Diana can use it too. Except the exact same gun can only be used by one character at a time. If Witya is holding the D.Y.N.O. 2, then Diana will have to use a different weapon. Terminals also have a specific feature. Both characters can trade with Merc-4-more and Sellof terminals, but only Witya can use Pantocorp terminals.
+Witya grabs the gun, examines it, and holsters it on his back. Because the weapon inventory is shared, Diana can use it too. Except the exact same gun can only be used by one character at a time. If Witya is holding the D.Y.N.O. 2, then Diana will have to use a different weapon. Terminals also have a specific feature. Both characters can trade with Merc-4-more and Sellof terminals, but only Witya can use Alleonzern terminals.
 
-Ammo and the bolt wallet are shared between characters. However, the wallet linked to the Pantocard is only held by Witya. Diana doesn't need it anyway.
+Ammo and the bolt wallet are shared between characters. However, the wallet linked to the Allecard is only held by Witya. Diana doesn't need it anyway.
 
 Making the bolt wallet independent makes no sense whatsoever. Trading at terminals that accept bolts will be available for both characters, and since the arsenal is shared, this would only introduce extra difficulties with the "last hit" on an enemy or smashing crates.
 
-In the next, final, 21th mission, called Come to last meeting, they dock with the flagship. They are cleared through because they are piloting Pantocorp fighters. However, they have to fight their way to the bridge itself.
+In the next, final, 21th mission, called Come to last meeting, they dock with the flagship. They are cleared through because they are piloting Alleonzern fighters. However, they have to fight their way to the bridge itself.
 
 At the end, right in front of the bridge, two robots hide behind hidden doors, and as soon as Witya and Diana run up to the bridge entrance, they reveal themselves and aim their guns at Greig's head.
 
@@ -740,33 +740,33 @@ Greig reaches into his pocket and presses some button. The D.Y.N.O. 2 triggers r
 
 **Witya:** Ew, what did you just do...
 
-The pheromone cloud quickly reaches the Pantopet nearby, which begins to grow, smashes its cage, and approaches Koen. Terrified, Koen draws his weapon, and his bioguise fails. Under the disguise is Boris Hartocat.
+The pheromone cloud quickly reaches Allemaus nearby, which begins to grow, smashes its cage, and approaches Koen. Terrified, Koen draws his weapon, and his bioguise fails. Under the disguise is Boris Hartocat.
 
-The robots immediately switch their weapons to the Pantopet and open fire, which the heroes take advantage of, instantly neutralizing both of them with a strike from their VersaWrench (yes, Diana has her own too).
+The robots immediately switch their weapons to the Allemaus and open fire, which the heroes take advantage of, instantly neutralizing both of them with a strike from their VersaWrench (yes, Diana has her own too).
 
-All three—Witya, Diana, and Boris—fight against the mutated Pantopet. Boris acts as an NPC.
+All three—Witya, Diana, and Boris—fight against the mutated Allemaus. Boris acts as an NPC.
 
 While they are fighting, the following dialogue takes place:
 
 **Witya:** Boris? How did you even get here?  
 **Boris:** Takes skill.  
-**Diana:** Stop. So it was you? You ordered the unfinished Pantopet to be put into production?  
+**Diana:** Stop. So it was you? You ordered the unfinished Allemaus to be put into production?  
 **Boris:** Obviously.  
 **Witya:** But... Why?  
 **Boris:** To come along and defeat them. And become a hero to this galaxy instead of a criminal!  
 **Witya:** That's not the hero's way, Boris.  
-**Boris:** Oh, who would've even known? Everyone would only know about the rescue! Evil Pantocorp turned out to be evil once again!  
-**Taisi:** Right... Just like they never found out how Pantocorp came to power.
+**Boris:** Oh, who would've even known? Everyone would only know about the rescue! Evil Alleonzern turned out to be evil once again!  
+**Taisi:** Right... Just like they never found out how Alleonzern came to power.
 
-The Pantopet is defeated. Boris is injured.
+The Allemaus is defeated. Boris is injured.
 
-**Witya:** Didn't you say this thing would make the Pantopet good?
+**Witya:** Didn't you say this thing would make the Allemaus good?
 
-Greig Ventre aims the Insectonator at Boris.
+Greig Ventre aims the Fliegenator at Boris.
 
 **Greig:** What made you think, whoever you are, that you'd manage to fool everyone? Where is Peter? I know his heart is still beating.
 
-Boris opens a hidden door, revealing a cell containing Peter Koen. Boris releases Pyotr. A smile forms on Greig's face. Witya jumps and tackles Greig to the ground, causing the shot to hit Peter instead, turning him into a woodlouse.
+Boris opens a hidden door, revealing a cell containing Peter Koen. Boris releases Peter. A smile forms on Greig's face. Witya jumps and tackles Greig to the ground, causing the shot to hit Peter instead, turning him into a fly.
 
 Boris freezes in surprise for a moment...
 
@@ -795,11 +795,12 @@ Keone turns his eyes down and to the side.
 **Taisi:** Ellesmere isn't burning anymore. And... you're right, maybe. I... I promise to return if everything is fine over there. Just... let me go.
 **Keone:** Alright...
 **Diana:** Ahem...
-**Witya:** This is all very touching, sorry, but seriously... Ellesmere is still burning. How exactly are we gonna get rid of the Pantopets?
+**Witya:** This is all very touching, sorry, but seriously... Ellesmere is still burning. How exactly are we gonna get rid of the Allemauses?
 **Diana:** Especially considering that the device only made things worse...
 **Keone:** Hand it here, let me take a look.
 
-Witya hands the device over to Kevin.
+
+Witya hands the device over to Keone.
 
 **Keone:** Well, there's only... A couple of buttons. The process was simply run... in reverse.
 
